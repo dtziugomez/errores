@@ -1,0 +1,10 @@
+obj\Debug\errores.exe
+obj\Debug\errores.xml
+obj\Debug\errores.pdb
+bin\Debug\errores.exe
+bin\Debug\errores.pdb
+bin\Debug\errores.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\errores.Form1.resources
+obj\Debug\errores.Resources.resources
+obj\Debug\errores.vbproj.GenerateResource.Cache
